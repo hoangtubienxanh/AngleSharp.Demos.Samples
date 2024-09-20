@@ -1,6 +1,5 @@
 ﻿namespace Samples
 {
-    using System.Windows;
 
     /// <summary>
     /// Interaction logic for App.xaml

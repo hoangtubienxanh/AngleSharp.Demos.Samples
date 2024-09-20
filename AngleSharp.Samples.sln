@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleSharp.Samples.App", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleSharp.Samples.Demos", "AngleSharp.Samples.Demos\AngleSharp.Samples.Demos.csproj", "{3F8D45C0-140D-4A48-B1DC-91BF3F4EC760}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleSharp.Samples.Demo.Net8", "AngleSharp.Samples.Demo.Net8\AngleSharp.Samples.Demo.Net8.csproj", "{D327EA33-2E86-4DFF-AC77-021A72EF4EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleSharp.Samples.App.Net8", "AngleSharp.Samples.App.Net8\AngleSharp.Samples.App.Net8.csproj", "{5E2642D8-A9F1-4CDF-BA49-7D39C12EADC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{3F8D45C0-140D-4A48-B1DC-91BF3F4EC760}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F8D45C0-140D-4A48-B1DC-91BF3F4EC760}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F8D45C0-140D-4A48-B1DC-91BF3F4EC760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D327EA33-2E86-4DFF-AC77-021A72EF4EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D327EA33-2E86-4DFF-AC77-021A72EF4EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D327EA33-2E86-4DFF-AC77-021A72EF4EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D327EA33-2E86-4DFF-AC77-021A72EF4EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2642D8-A9F1-4CDF-BA49-7D39C12EADC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2642D8-A9F1-4CDF-BA49-7D39C12EADC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2642D8-A9F1-4CDF-BA49-7D39C12EADC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2642D8-A9F1-4CDF-BA49-7D39C12EADC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
